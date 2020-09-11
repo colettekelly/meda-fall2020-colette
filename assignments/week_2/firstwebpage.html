@@ -1,12 +1,13 @@
-
+<!-- This is a heading with the importance of 1. -->
 <h1>My Webpage</h1><br/>
+<!-- This is a heading with the importance of 2.-->
 <h2>Heading 2</h2>
-
+<!-- This is a paragraph, usually used for normal text. -->
 <p>This is my first webpage!</p>
-<H3>The Second Part</H3>
+<h2>The Second Part</h2>
 
-<p>My name is <a href="http://www.google.com/">Colette</a></p>
-<p>I am learning web design!</p>
+<p>My name is Colette</p>
+<p>I am learning <a href="https://en.wikipedia.org/wiki/Web_design">web design!</a></p>
 <!--This is a comment!-->
 <hr /><!--This used to visually split sections-->
 
@@ -15,7 +16,9 @@
 <p>Goodbye!</p>
 <!--Good example of a hypertext link. -->
 Check out <a href="https://www.google.com">Google.com</a>
-<a href="https://www.yahoo.com">click here</a>
+</br> <!-- This is a break -->
+
+<a href="https://www.yahoo.com">yahoo!</a>
 <!-- Unordered List -->
 <ul>
     <li>Apples</li>
@@ -24,12 +27,17 @@ Check out <a href="https://www.google.com">Google.com</a>
     <li>Grapes</li>
 </ul>
 <h1>Computer Languages</h1>
+<!-- This is ordered list ol(numbered)-->
 <ol>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
 </ol>
-<!-- Dictionary List -->
+<!-- Dictionary List 
+
+    dl: dictionary list
+    dt: dictionary term
+    dd: dictionary definition -->
 <h2>Dictionary List</h2>
 <dl>
     <dt>Markup Language</dt>
@@ -37,7 +45,20 @@ Check out <a href="https://www.google.com">Google.com</a>
     <dt>Programing Language</dt>
     <dd>A computer language that instructs the computer to execute actions based on its environment</dd>
 </dl>
-<h2>Some Images</h2>
+<h2>Some pictures of fruit</h2><!-- If image is saved using absolute path then the file path is /Users/Documents/meda-fall2020-colette/assignments/week_2/blueberries-->
+<!-- Image saved as relative file path-->
 <img src="blueberries.jpg" alt="This is a picture of blueberries" title="blueberries" width="200" height="200"/>
+<!-- The title attribute allows for a tooltip to appear when you hover over an image. -->
 <img src="grapes.jpg" alt="This is a picture of grapes"title="grapes"/>
+<!-- The width and height attribute allows the webpage to "reserve" space for the image while it's loading. -->
 <img src="lemons.jpg" alt="This is a picture of lemons" title="lemons" width="500" height="500"/>
+<!-- Figure elements are sections of a website that have text that go further into detail about an image. -->
+ <figure>
+     <img src="blueberries.jpg" alt="bluberries"/>
+     <figcaption>Bluberries are high in antioxidants. Image by<a href="https://images.pexels.com/photos/2539177/pexels-photo-2539177.jpeg?cs=srgb&dl=pexels-kelly-lacy-2539177.jpg&fm=jpg/"
+         target="_blank">Roman Odintsov</a>
+        <!-- target_blank allows the image to open in a new tab -->
+    </figcaption>
+ </figure>
+ 
+ 
