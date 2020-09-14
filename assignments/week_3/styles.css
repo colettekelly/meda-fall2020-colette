@@ -1,0 +1,15 @@
+body {background-color: cyan;}
+/* CSS Cascading Style Sheets
+CSS Parts:
+Selector
+Rules: property & Value
+
+
+*/
+#firstDiv{
+    background-color: gray;
+    margin: 10px;
+}
+#pizza {
+    background-color: red;
+}
