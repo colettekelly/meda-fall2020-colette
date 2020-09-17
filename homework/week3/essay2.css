@@ -1,5 +1,7 @@
 
-body {background-color: slateblue;}
+body {background-color: slateblue;
+border-style: solid;
+border-width: 10px;}
 
 #firstDiv {background-color: palevioletred;
     margin-left: 200px; 

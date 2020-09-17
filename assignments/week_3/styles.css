@@ -1,48 +1,57 @@
-body {background-color: cyan;}
-/* CSS Cascading Style Sheets
-CSS Parts:
-Selector
-Rules: property & Value
+/* 
+ CSS: Cascading Styles Sheets
 
+    CSS Parts:
+    Selector
+    Rules: property & value
 
 */
-#firstDiv{
-    background-color: gray;
+
+#firstDiv {
+    background-color: grey;
     margin-top: 100px;
-   
 }
+
 #pizza {
     background-color: red;
 }
+
+
+/* This box is exactly 300 pixels wide because we add the width, borders for each side, and paddings together to end up with 300 pixels. */
 .box {
     width: 266px;
     height: 290px;
-    background-color: blueviolet;
+    background-color: cornsilk;
     border-style: solid;
     border-width: 5px;
-    border-color: chartreuse;
+    border-color: purple;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 25px;
     padding-left: 12px;
     padding-right: 12px;
-
-
+    /* padding-top: 100px; */
+    font-family: "Calibri";
 }
-#special-paragraph{
+
+#special-paragraph {
     font-size: 24px;
-    font-family: Arial;
+    font-family: "Arial";
     color: purple;
-    
-    font-weight: bolder;
+    /* text-decoration: overline underline; */
+    font-weight: bold;
     font-style: italic;
     line-height: 48px;
-    direction: rtl;
-    text-transform: uppercase;
-    text-align: center;
+    /* direction: rtl; */
+    /* unicode-bidi:bidi-override; */
+    text-align: justify;
+}
 
+img {
 
+}
 
-
+.last {
+    font-size: 100px;
 }
