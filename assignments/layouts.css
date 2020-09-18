@@ -1,9 +1,11 @@
-#header
-{width: 700px;
-height: 200px;
-background-color: blanchedalmond;
-margin-left: auto;
-margin-right: auto;
+/* Normally we would have a parent div holding #header, #main, and #footer so we can apply margin-left and margin-right to this parent div instead of every div on the webpage.*/
+
+#header {
+    width: 700px;
+    height: 200px;
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
 }
 #main {
     width: 660px;
@@ -12,13 +14,29 @@ margin-right: auto;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
+    vertical-align: middle;
 }
 #footer {
     width: 700px;
     height: 50px;
     background-color:grey;
+    vertical-align: middle;
     margin-left: auto;
     margin-right: auto;
 }
-
+#sidebar{
+    width: 150px;
+    height: 1000px;
+    background-color: skyblue;
+    display: inline-block;
+}
+#article{
+    width: 468px;/* takes into consideration padding and border size, should total 510px */
+    height: 958px;/* takes into consideration padding and border size, should total 1000px */
+    background-color:pink;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+    border: 1px solid red;/* shorthand for border-width, border-style, and border-color;*/
+}
 
