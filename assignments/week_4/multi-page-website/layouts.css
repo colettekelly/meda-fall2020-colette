@@ -1,5 +1,5 @@
 /* Normally we would have a parent div holding #header, #main, and #footer so we can apply margin-left and margin-right to this parent div instead of every div on the webpage.*/
-body {background-color: plum;}
+body {background-color: #CC9AF0;}
 
 
 #container  {
@@ -30,7 +30,7 @@ body {background-color: plum;}
 #container header nav ul li {
     display: inline-block;
     /* font-size: 2em; */
-    background-color: turquoise;
+    background-color: #EBE7A5;
     border-radius: 5px;}
 
 
@@ -42,7 +42,7 @@ body {background-color: plum;}
         height: 32px;
         padding-left: 10px;
         padding-right: 10px;
-        color: red;
+        color: black;
         text-decoration: none;
     }
 
@@ -52,7 +52,7 @@ body {background-color: plum;}
 
     header {
     height: 200px;
-    background-color: slateblue;
+    background-color:#EBE7A5;
 }
 main {
     background-color: palevioletred;
@@ -87,7 +87,7 @@ main {
 
 footer {
     height: 50px;
-    background-color: grey;
+    background-color: #8FD09E;
 }
 footer p {
     text-align: center;

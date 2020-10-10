@@ -1,0 +1,242 @@
+DETAILS FOR MY PORTFOLIO WEBSITE
+
+6 pages 1:-HOME 2:-ABOUT ME 3:-PHOTOGRAPHY 4:-PROJECTS 5:-CONTACT ME 6:-HOBBY
+
+Colors: All my webpages have soft pastel colors. The reason I chose these colors is because I like pastel colors. My intention is to reflect a warm, comfortable feeling on to the viewer so that they will spend a longer time browsing my website. The color of all the text is black because it stands out better against each background color and is easier to read.I chose Arial as the text font because it is a web-safe color.
+
+Page 1:-HOME(Index)
+
+HEADER:
+Nav bar:- Home, About me, Projects, Contact me
+Background color of header div:#EAC7E3 
+Background color of nav buttons:#CC9AF0
+Font and font-size of nav text: Arial:12
+Font-color:Black
+
+BODY:
+Background color of body div:#C1C7E3
+
+
+Image: Portrait1.jpg
+Credit: Colette Kelly
+
+Text: 
+Hi and welcome to my website! I’m Colette and I’m a web developer! Let me work with you and together we can transform your project into something beautiful!
+
+Font and font-size of text: Arial
+Font-color:Black
+
+
+FOOTER:
+Background color of footer div:#8FD09E
+Text: copyright 2020 Colette
+Font and font-size of text: Arial:12
+Font-color:Black
+Img_8 & img_9(LinkedIn & Instagram logos)
+
+
+
+
+Page 2:- ABOUT ME
+
+HEADER:
+Nav bar:- Home, About me, Projects, Contact me
+Background color of header div:#EBE7A5
+Background color of nav buttons:#D2BFCF
+Font and font-size of nav text:Arial:12
+Font-color:Black
+
+
+BODY:
+Background color:#CC9AF0
+Font and font-size:Arial:12
+Font-color:Black
+
+2 images Portrait2.jpg & San_Francisco.jpeg
+Credits: Colette Kelly
+
+Text: Hi, I’m so glad you visited my website! Let me help you get to know me! I am an aspiring web developer. I am currently attending a boot-camp learning front-end and back-end web development! My current skills are HTML, CSS, GitHub, Javascript, Inkscape, Krita, Node and I will soon be learning Angular, Bootstrap, MongoDB, Express and Cloud9 and more.
+My goals are to keep learning new skills and become a top notch web developer who helps people to develop and transform their projects and make them come to life.
+I am currently gaining new technical skills in this new and exciting career. My past experience as a nurse has made me an excellent communicator and listener. Patience, problem-solving and being an effective team member are other qualities that I possess that will also lend to being an excellent web developer.
+
+More about me: Born in Ireland and currently living in San Francisco, I love to hang out with my family when I am not working. Some of the things that I love to do in my spare time are, hiking on some of the magnificent oceanside trails in San Francisco, painting, photography, reading and cooking.
+Photography(link to photography page)Images: image_1,  image_2,  image_3,  image_4, image_5,  image_6
+Credits: Colette Kelly
+
+Link to resume
+
+
+
+
+FOOTER:
+Background color of footer div:#AFBFCF
+Text: copyright 2020 Colette
+Font and font-size of text:Arial:12
+Font-color:Black
+Img_8 & img_9(LinkedIn & Instagram logos)
+
+
+
+
+
+Page 3:- PHOTOGRAPHY
+
+HEADER:
+Nav bar:-Home, About me, Photography, Projects, Contact me
+Background color of header div:#F0A16E
+Background color of nav buttons:#E1E1DE
+Font and font-size of nav text:Arial:12
+Font-color:Black
+
+
+
+BODY:
+Background color:#B7D09E
+Font and font-size:Arial:12
+Font-color:Black
+Text: Some of my photography Images: image_1,  image_2,  image_3,  image_4, image_5,  image_6
+Credits: Colette Kelly
+
+
+
+FOOTER:
+Background color of footer div:#AFBFCF
+Text: copyright 2020 Colette
+Font and font-size of text:Arial:12
+Font-color:Black
+Img_8 & img_9(Img_8 & img_9(LinkedIn & Instagram logos)
+
+
+
+Page 4:- PROJECTS PAGE
+
+HEADER:
+Nav bar:-Home, About me, Projects, Contact me
+Background color of header div:#FFFFA8
+Background color of nav buttons:#FF83A8
+Font and font-size of nav text:Arial:12
+Font-color:Black
+
+
+
+
+BODY:
+Background color:#B7D0FF
+Font and font-size:Arial:12
+Font-color:Black
+Text: Would you like to see some of my work?
+
+Image link to project: hobby.jpeg(thumbnail)
+Credit: Colette Kelly
+
+
+
+FOOTER:
+Background color of footer div:#97ABD1
+Text: copyright 2020 Colette
+Font and font-size of text:Arial:12
+Font-color:Black
+Img_8 & img_9(LinkedIn & Instagram logos)
+
+
+Page 5:-CONTACT ME
+
+HEADER:
+Nav bar:-Home, About me, Projects, Contact me
+Background color of header div:#AEABD1
+Background color of nav buttons:#CFEBFF
+Font and font-size of nav text:Arial:12
+Font-color:Black
+
+BODY:
+Background color:#FFEAA8
+Font and font-size:Arial:12
+Font-color:Black
+
+Text: Please contact me if you have a question or if you would like me to help you transform your project. I would love to hear from you!
+colettejkelly@gmail.com
+San Francisco, CA
+Currently available for projects
+
+
+
+FOOTER:
+Background color of footer div:#BADCA7
+Text: copyright 2020 Colette
+Font and font-size of text:Arial:12
+Font-color:Black
+Img_8 & img_9(LinkedIn & Instagram logos)
+
+
+
+
+
+
+Page 6:- HOBBY(link from PROJECTS page)
+
+HEADER:
+Text; Welcome to my Hobby Page!
+Background color of header div:#FFFFA8
+Font and font-size of text:Arial:12
+Font-color:Black
+
+BODY:
+Background color:#FFEAA8
+Font and font-size:Arial:12
+Font-color:Black
+
+Text: My name is Colette and I love to cook.......
+
+Images and links
+
+FOOTER:
+Background color of footer div:#BADCA7
+Text: copyright 2020 Colette
+Font and font-size of text:Arial:12
+Font-color:Black
+Img_8 & img_9(LinkedIn & Instagram logos)
+
+
+
+
+
+
+
+
+
+3 WEBSITES 
+
+1. https://burciaga.co/
+The 3 things I like about this website:-
+a)It’s simple, not too busy, in black and white.
+b)The home page shows a picture of the photographer smiling with his camera.This portrays to the viewer that he has a warm personality.
+c)There’s not too much writing on any of the web pages. Each web page shows his photography.
+The 3 things I don’t like about this website:-
+a)In the home page, the writing in the header is too small and unclickable.
+b)On the home page, the “view work” and also his daily routine schedule are hard to read as they are sideways and you have to turn your head sideways to read.
+c)On the home page, ‘view work’ too small and easy to miss.
+
+2. https://stefivanov.com/about/
+The 3 things I like about this website:-
+a)It’s easy to navigate through the website. 
+b)The “get in touch” link at the bottom of the home page is large and is a link to his contact page.
+C)Moving curvy line when you hover over links.
+The 3 things I don’t like about this website:-
+a)The choice of colors, the yellow and blue are a little hard on the eyes.
+b)It has no header or footer.
+c)Too much text on the home page.
+
+3. https://weareowlsome.com/o-nas/?lang=pl
+The 3 things I like about this website:-
+a)The color choice, soft colors, easy on the eye.
+b)Interactive owl when you go to another page.
+c)On home page, the header stay at top of page as you scroll down.
+
+The 3 things I don’t like about this website:-
+a)On the home page, the images move too fast.
+b)Pointer turns into’ scroll’ button on home page.
+c)On the work page, the nav bar is all the way at the bottom.
+
+
+
+
