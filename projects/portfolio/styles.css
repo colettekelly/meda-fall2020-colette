@@ -1,0 +1,187 @@
+
+body {background-color: #C1C7E3;}
+
+
+
+
+#container  {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+   
+    
+   
+}
+#container header nav {
+    padding-top: 35px;}
+
+
+
+#container header nav ul {
+    padding-left: 0;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+   
+
+
+}
+#container header nav ul li {
+    display: inline-block;
+    
+    background-color: #CC9AF0;
+    border-radius: 5px;}
+
+
+
+    #container header nav ul li a {
+        font-family: Arial;
+        line-height: 32px;
+        display: inline-block;
+        height: 32px;
+        padding-left: 10px;
+        padding-right: 10px;
+        color: black;
+        text-decoration: none;
+    }
+
+
+
+
+
+    header {
+    height: 100px;
+    background-color:#EAC7E3 ;
+
+}
+
+#base {width: 900px;
+    height: 900px;
+    background-color: mistyrose;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#home {width: 900px;
+    height: 900px;
+    background-color: mistyrose;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+#welcome {text-align: center;}
+
+#work {text-align: center;
+font-size: 20px;}
+
+#about {width: 900px;
+    height: 900px;
+    background-color:#CC9AF0;
+    margin-left: auto;
+    margin-right: auto;
+padding: 50px}
+
+    #photography {width: 900px;
+        height: 900px;
+        background-color: lavenderblush;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+#article_heading {
+    text-align: center;
+    font-size: 30px;
+}
+footer {
+    height: 80px;
+    background-color: #EAC7E3;
+}
+footer p {
+    text-align: center;
+    margin-block-start: 0;
+    margin-block-end: 0;
+   
+
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+text-transform: full-width ;
+}
+
+
+
+  
+.logos{display: inline-block;
+    height: 58px;
+    width: 60px;
+    
+    padding: 2px;
+    margin: 2px;}
+
+
+
+
+
+    
+
+    
+#contact_me p{
+    height:200px;
+    width:700px;
+    border-style: groove;
+    border-color: slateblue;
+    text-align: justify;
+    padding-left: 50px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+#projects {width: 900px;
+    height: 900px;
+    background-color: #CC9AF0;
+    margin-left: auto;
+    margin-right: auto;}
+  #contact {width: 900px;
+    height: 900px;
+    background-color: #CC9AF0;
+    margin-left: auto;
+    margin-right: auto;
+
+  }  
+#projects_link {
+    height: 300px;
+    width: 300px;
+    border-style: solid;
+    border-color: thistle;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 25px;
+}
+  #projects_text {
+      text-align: center;
+      font-size: 25px;
+  }
+.gallery {
+    width: 200px;
+    height: 350px;
+    background-color: thistle;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 35px;
+}
+    
+    
+#gallery-container {
+    line-height: 0px;}   
+  
+    
+    
+    
+    
